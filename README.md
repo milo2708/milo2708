@@ -2,7 +2,6 @@
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning nothing
 - 💞️ I’m not looking to collaborate
-- 📫 Checkout my Twitter: m3ilo_
 <3
 
 <!---
