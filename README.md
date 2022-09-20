@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/m3ilo19" target="blank"><img src="https://img.shields.io/twitter/follow/m3ilo19?logo=twitter&style=for-the-badge" alt="m3ilo19" /></a> </p>
 
+<p align="left"> <a href="https://www.youtube.com/channel/UClUGsb98yqDDV9HxbVGPPQw" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UClUGsb98yqDDV9HxbVGPPQw?style=social" alt="m3ilo19" /></a> </p>
+
+
 - 🔭 I’m currently working on **Matura**
 
 - 📫 How to reach me **emilio.math@bulme.at**
