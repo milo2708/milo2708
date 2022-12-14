@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **emilio.math@bulme.at**
 
-- ⚡ Fun fact:**Rocket League GOAT**
+- ⚡ Fun fact **Rocket League GOAT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
