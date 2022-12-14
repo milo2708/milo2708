@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **emilio.math@bulme.at**
 
-- ⚡ Fun fact **Sprich Deutsch du H*rensohn**
+- ⚡ Fun fact **Gay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
