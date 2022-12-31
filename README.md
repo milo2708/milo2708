@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milo2708" alt="milo2708" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m3ilocore" target="blank"><img src="https://img.shields.io/twitter/follow/m3ilocore?logo=twitter&style=for-the-badge" alt="m3ilocore" /></a> </p>
+<p align="left"> <a href="https://twitter.com/af_m3ilo" target="blank"><img src="https://img.shields.io/twitter/follow/af_m3ilo?logo=twitter&style=for-the-badge" alt="af_m3ilo" /></a> </p>
 
 <p align="left"> <a href="https://www.youtube.com/channel/UClUGsb98yqDDV9HxbVGPPQw" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UClUGsb98yqDDV9HxbVGPPQw?style=social" alt="m3ilo19" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **emilio.math@bulme.at**
 
-- ⚡ Fun fact **Sprich Deutsch du H*rensohn**
+- ⚡ Fun fact **Rocket League GOAT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
