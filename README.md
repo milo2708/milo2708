@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milo2708" alt="milo2708" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/m3ilocore" target="blank"><img src="https://img.shields.io/twitter/follow/m3ilocore?logo=twitter&style=for-the-badge" alt="m3ilocore" /></a> </p>
+
 <p align="left"> <a href="https://www.youtube.com/channel/UClUGsb98yqDDV9HxbVGPPQw" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UClUGsb98yqDDV9HxbVGPPQw?style=social" alt="m3ilo19" /></a> </p>
 
 
@@ -12,11 +14,12 @@
 
 - 📫 How to reach me **emilio.math@bulme.at**
 
-- ⚡ Fun fact **Rocket League GOAT**
+- ⚡ Fun fact **Sprich Deutsch du H*rensohn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/emiliomath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaboymeilo" height="30" width="40" /></a>
+<a href="https://twitter.com/m3ilo19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m3ilo19" height="30" width="40" /></a>
+<a href="https://instagram.com/yaboymeilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaboymeilo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
