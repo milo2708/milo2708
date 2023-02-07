@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milo2708&label=Profile%20views&color=0e75b6&style=flat" alt="milo2708" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milo2708" alt="milo2708" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/af_m3ilo" target="blank"><img src="https://img.shields.io/twitter/follow/af_m3ilo?logo=twitter&style=for-the-badge" alt="af_m3ilo" /></a> </p>
-
 <p align="left"> <a href="https://www.youtube.com/channel/UClUGsb98yqDDV9HxbVGPPQw" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UClUGsb98yqDDV9HxbVGPPQw?style=social" alt="m3ilo19" /></a> </p>
 
 
@@ -18,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AF_M3ilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AF_M3ilo" height="30" width="40" /></a>
-<a href="https://instagram.com/m3ilocore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m3ilocore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
